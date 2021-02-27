@@ -2,6 +2,7 @@
   "name": "html-to-pdf-maker",
   "version": "1.0.0",
   "description": "An html to pdf converter utility",
+  "homepage": "https://github.com/Chari16/html-to-pdf-maker",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
