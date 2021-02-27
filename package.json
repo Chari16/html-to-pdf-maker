@@ -1,6 +1,6 @@
 {
   "name": "html-to-pdf-maker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An html to pdf converter utility",
   "homepage": "https://github.com/Chari16/html-to-pdf-maker",
   "main": "index.js",
